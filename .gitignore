@@ -5,6 +5,7 @@ bin
 lib
 include
 *.py[cod]
+venv/
 
 # Mac OS X custom attribute files
 .DS_Store
